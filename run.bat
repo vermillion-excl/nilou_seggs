@@ -1,1 +1,1 @@
-java -jar grasscutter-1.2.3-dev.jar
+"%JAVA_HOME%\bin\java.exe" -jar grasscutter.jar

@@ -1,0 +1,1056 @@
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.Grasscutter> config.json could not be found. Generating a default configuration ...
+2022-09-05T12:08:52Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'TowerSchedule.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Spawns.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'SkillParticleGeneration.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ShopChest.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Shop.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ReliquaryDecompose.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'GameAnnouncementList.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'GameAnnouncement.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'GadgetSpawns.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating data folder 'gacha/'
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'gacha/records.html' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'gacha/mappings.js' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'gacha/details.html' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ExpeditionReward.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'EnergyDrop.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'DungeonDrop.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Drop.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating data folder 'documentation/'
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'documentation/index.html' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'documentation/handbook.html' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ChestReward.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'BlossomConfig.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'BannersORIGINAL.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Banners.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Announcement.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ActivityConfig.json' data
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.utils.Language> Generating TextMaps cache
+2022-09-05T12:08:52Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:08:59Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:09:00Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:09:00Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:09:00Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:09:00Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:17:54Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:17:54Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:17:54Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:17:56Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:17:56Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:17:56Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:17:56Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:17:56Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:21:57Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:21:57Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:21:57Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:21:59Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:21:59Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:21:59Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:21:59Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:21:59Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:22:00Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
+2022-09-05T12:22:03Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:22:04Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-09-05T12:22:04Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-09-05T12:22:04Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-09-05T12:22:04Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: IdLookPlugin
+2022-09-05T12:22:04Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:22:04Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-09-05T12:23:49Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:23:49Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:23:49Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:23:51Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:23:51Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:23:51Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:23:51Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:23:51Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:23:52Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
+2022-09-05T12:24:26Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:24:26Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-09-05T12:24:26Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-09-05T12:24:26Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-09-05T12:24:26Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: IdLookPlugin
+2022-09-05T12:24:26Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:24:26Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-09-05T12:24:48Z <INFO:emu.grasscutter.command.CommandHandler> Account created with UID 1337.
+2022-09-05T12:25:11Z <INFO:emu.grasscutter.command.CommandHandler> Invalid UID.
+2022-09-05T12:26:47Z <INFO:emu.grasscutter.command.CommandHandler> Invalid UID.
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> Available commands: 
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> account - Modify user accounts
+	Usage: account create <username> [<UID>]
+	Usage: account delete <username>
+	Usage: account create <username> <password> [<UID>]
+	Usage: account resetpass <username> <password>
+	Permission:  None
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> announce - Send announcement to all online players, or manage server's announcement
+	Usage: a <content>
+	Usage: a refresh
+	Usage: a (tpl|revoke) <templateId>
+	Aliases: a 
+	Permission: server.announce
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> ban - Ban a player
+	Usage: ban @<UID> [<time> [<reason>]]
+	Permission: server.ban
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> clear - Deletes unequipped unlocked items from your inventory. Defaults to 4* level 1 refinement 1 or lower, but can be set higher.
+	Usage: clear @<UID> (all|wp|art|mat) [lv<max level>] [r<max refinement>] [<max rarity>*]
+	Permission: player.clearinv  (Permission player.clearinv.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> coop - Forces someone to join the world of others. If no one is targeted, it sends you into co-op mode anyway.
+	Usage: coop @<UID> [<host UID>]
+	Permission: server.coop  (Permission server.coop.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> enka - commands.enka.description
+	Usage: enka @<UID> /enka <ssm uid|ssm name>
+	Permission: player.give
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> enter_dungeon - Enter a dungeon
+	Usage: dungeon @<UID> <dungeonId>
+	Aliases: enterdungeon dungeon 
+	Permission: player.enterdungeon  (Permission player.enterdungeon.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> equip - commands.equip.description
+	Usage: e @<UID> equip
+	Aliases: use eq e 
+	Permission: player.equip  (Permission player.equip.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> give - Gives an item to you or the specified player. Can also give all weapons, avatars and/or materials, and can construct custom artifacts.
+	Usage: g @<UID> (<itemId>|<avatarId>|all|weapons|mats|avatars) [lv<level>] [r<refinement>] [x<amount>] [c<constellation>]
+	Usage: g @<UID> <artifactId> [lv<level>] [x<amount>] [<mainPropId>] [<appendPropId>[,<times>]]...
+	Aliases: g item giveitem 
+	Permission: player.give  (Permission player.give.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> giveart - commands.giveart.description
+	Usage: ga @<UID> /ga <artifactId> [<mainstatName>] [<substatName><substatvalue(in % or flat)>] [<level 1 - 21>]
+
+mainstatNames:
+    [hp,hp%,atk,atk%,def%,er,em,hb,cdmg,cr,phys%,dendro%,geo%,hydro%,anemo%,cryo%,electro%,pyro%]
+
+substatnames:
+    [<same as the ones above but exclude elemental dmg bonuses and healing bonuses>,cdr,def]
+	Aliases: gart ga 
+	Permission: player.giveart  (Permission player.giveart.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> givenew - commands.givenew.description
+	Usage: un @<UID> use and get all new items in this beta only, coz why use giveall and clutter
+	Aliases: unlocknew un new gn 
+	Permission: player.give  (Permission player.give.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> heal - Heal all characters in your current team.
+	Usage: h @<UID> 
+	Aliases: h 
+	Permission: player.heal  (Permission player.heal.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> help - Sends the help message or shows information about a specified command
+	Usage: help [<command>]
+	Permission:  None
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> kick - Kicks the specified player from the server (WIP)
+	Usage: kick @<UID> 
+	Aliases: restart 
+	Permission:  None  (Permission server.kick is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> killall - Kill all entities
+	Usage: ka @<UID> [<sceneId>]
+	Aliases: ka 
+	Permission: server.killall  (Permission server.killall.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> killCharacter - Kills the players current character
+	Usage: kill @<UID> 
+	Aliases: suicide kill 
+	Permission: player.killcharacter  (Permission player.killcharacter.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> killdroppeditems - commands.killdroppeditems.description
+	Usage: kd @<UID> killdroppeditems to remove all dropped items on floor
+	Aliases: kdi kd removeitems 
+	Permission:  None
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> language - Display or change current language
+	Usage: lang [<language code>]
+	Aliases: lang 
+	Permission:  None
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> list - List online players
+	Usage: list [<UID>]
+	Aliases: players 
+	Permission:  None
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> look - commands.look.description
+	Usage: l look <keywords>
+	Aliases: l gm 
+	Permission: player.look
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> permission - Grants or removes a permission for a user
+	Usage: permission @<UID> (add|remove) <permission>
+	Permission: permission
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> position - Get coordinates
+	Usage: pos @<UID> 
+	Aliases: pos 
+	Permission:  None
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> quest - Add or finish quests
+	Usage: quest @<UID> (add|finish) [<questId>]
+	Permission: player.quest  (Permission player.quest.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> reload - Reload server config
+	Usage: reload 
+	Permission: server.reload
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> resetConst - Resets the constellation level on your current active character, you will need to relog after using the command to see any changes
+	Usage: resetConst @<UID> [all]
+	Aliases: resetconstellation 
+	Permission: player.resetconstellation  (Permission player.resetconstellation.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> resetShopLimit - Reset target player's shop refresh time
+	Usage: resetshop @<UID> 
+	Aliases: resetshop 
+	Permission: server.resetshop  (Permission server.resetshop.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> sendMail - Sends mail to the specified user. The usage of this command changes based on its composition state
+	Usage: sendMail (<userId>|all) [<templateId>]
+	Usage: sendMail help
+	Permission: server.sendmail
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> sendMessage - Sends a message to a player as the server. If used with no target, sends to all players on the server.
+	Usage: b <message>
+	Aliases: say sendservmsg sendservermessage b broadcast 
+	Permission: server.sendmessage  (Permission server.sendmessage.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> setConst - Sets constellation level for your current active character
+	Usage: sc @<UID> <constellation level>
+	Aliases: setconstellation sc 
+	Permission: player.setconstellation  (Permission player.setconstellation.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> setFetterLevel - Sets your fetter level for your current active character
+	Usage: setfetterlvl @<UID> <level>
+	Aliases: setfetterlvl setfriendship 
+	Permission: player.setfetterlevel  (Permission player.setfetterlevel.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> setProp - Sets accountwide properties. Things like godmode can be enabled this way, as well as changing things like unlocked abyss floor and battle pass progress.
+	Values for <prop> (case-insensitive): GodMode | UnlimitedStamina | UnlimitedEnergy | TowerLevel | WorldLevel | BPLevel | SetOpenState | UnsetOpenState | UnlockMap
+	(cont.) see PlayerProperty enum for other possible values, of the form PROP_MAX_SPRING_VOLUME -> max_spring_volume
+	Usage: prop @<UID> <prop> <value>
+	Aliases: prop 
+	Permission: player.setprop  (Permission player.setprop.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> setStats - Sets fight property for your current active character
+	Values for <stat>: hp | maxhp | def | atk | em | er | crate | cdmg | cdr | heal | heali | shield | defi
+	(cont.) Elemental DMG Bonus: epyro | ecryo | ehydro | egeo | edendro | eelectro | ephys
+	(cont.) Elemental RES: respyro | rescryo | reshydro | resgeo | resdendro | reselectro | resphys
+	Usage: stat @<UID> [set] <stat> <value>
+	Usage: stat @<UID> (lock|freeze) <stat> [<value>]
+	Usage: stat @<UID> (unlock|unfreeze) <stat>
+	Aliases: stats stat 
+	Permission: player.setstats  (Permission player.setstats.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> spawn - Spawns an entity near you
+	Usage: s @<UID> spawn <entityId> [amount] [level(monster only)] [<x> <y> <z>(monster only)]
+	Aliases: drop s 
+	Permission: server.spawn  (Permission server.spawn.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> stop - Stops the server
+	Usage: stop 
+	Permission: server.stop
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> switchelement - commands.switchelement.description
+	Usage: se @<UID> anemo|geo|electro|dendro
+	Aliases: se 
+	Permission:  None
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> talent - Set talent level for your current active character
+	Usage: talent @<UID> set <talentId> <level>
+	Usage: talent @<UID> (n|e|q) <level>
+	Usage: talent @<UID> getid
+	Permission: player.settalent  (Permission player.settalent.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> team - Modify your team manually.
+	Usage: team @<UID> add <avatarId,...>
+	Usage: team @<UID> (remove|set) [index|first|last|index-index,...]
+	Permission: player.team  (Permission player.team.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> teleport - Change the player's position
+	Usage: tp @<UID> <x> <y> <z> [sceneId]
+	Aliases: tp 
+	Permission: player.teleport  (Permission player.teleport.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> teleportAll - Teleports all players in your world to your position
+	Usage: tpall @<UID> 
+	Aliases: tpall 
+	Permission: player.tpall  (Permission player.tpall.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> unban - Unban a player
+	Usage: unban @<UID> 
+	Permission: server.ban
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> unlockall - Unlocks all open states for a player.
+	Usage: unlockall @<UID> 
+	Permission: player.unlockall  (Permission player.unlockall.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> weather - Changes weather ID and climate type. Weather IDs can be found in ./Resources/ExcelBinOutput/WeatherExcelConfigData.json.
+Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
+	Usage: w @<UID> weather [<weatherId>] [<climateType>]
+	Aliases: w 
+	Permission: player.weather  (Permission player.weather.others is also required to use on other players)
+2022-09-05T12:26:48Z <INFO:emu.grasscutter.command.CommandHandler> windy - commands.windy.description
+	Usage: w @<UID> windy <element> <amount>
+[all element names + paimon + army]
+	Aliases: burn bih hell fuck w wind windshitclientnotify 
+	Permission: server.spawn  (Permission server.spawn.others is also required to use on other players)
+2022-09-05T12:27:56Z <INFO:emu.grasscutter.command.CommandHandler> Unknown command: ccount
+2022-09-05T12:27:58Z <INFO:emu.grasscutter.command.CommandHandler> Unknown command: ccount
+2022-09-05T12:28:02Z <INFO:emu.grasscutter.command.CommandHandler> Account created with UID 83000.
+2022-09-05T12:30:24Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in as 10002.
+2022-09-05T12:30:24Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:30:24Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-09-05T12:30:24Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:30:33Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-09-05T12:30:33Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10002.
+2022-09-05T12:30:33Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:30:33Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-09-05T12:30:33Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:30:37Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-09-05T12:30:37Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10002.
+2022-09-05T12:30:37Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:30:37Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-09-05T12:30:37Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:31:24Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:31:24Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:31:24Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:31:26Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:31:26Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:31:26Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:31:26Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:31:26Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:31:27Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
+2022-09-05T12:32:41Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-09-05T12:32:41Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10002.
+2022-09-05T12:32:41Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:32:41Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-09-05T12:32:41Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:32:45Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-09-05T12:32:45Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10002.
+2022-09-05T12:32:45Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:32:45Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-09-05T12:32:45Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-09-05T12:33:43Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:33:44Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:33:44Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:33:45Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:33:45Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:33:45Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:33:45Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:33:45Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:33:53Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:33:53Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:33:54Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:33:55Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:33:55Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:33:55Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:33:55Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:33:55Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:33:56Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
+2022-09-05T12:34:04Z <INFO:emu.grasscutter.tools.Tools> Invalid option. Will use EN (English) as fallback.
+2022-09-05T12:34:05Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:34:05Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-09-05T12:34:05Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-09-05T12:34:05Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-09-05T12:34:05Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: IdLookPlugin
+2022-09-05T12:34:05Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:34:05Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-09-05T12:35:16Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:35:17Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:35:17Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:35:18Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:35:19Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:35:19Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:35:19Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:35:19Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:35:19Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
+2022-09-05T12:35:21Z <INFO:emu.grasscutter.tools.Tools> Invalid option. Will use EN (English) as fallback.
+2022-09-05T12:35:22Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:35:22Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-09-05T12:35:22Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-09-05T12:35:22Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-09-05T12:35:22Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: IdLookPlugin
+2022-09-05T12:35:22Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:35:22Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-09-05T12:46:59Z <INFO:emu.grasscutter.Grasscutter> Press Ctrl-C again to shutdown.
+2022-09-05T12:47:01Z <INFO:emu.grasscutter.plugin.PluginManager> Disabling plugin: IdLookPlugin
+2022-09-05T12:47:01Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:47:11Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:47:11Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:47:11Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:47:13Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:47:13Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:47:13Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:47:13Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:47:13Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:47:14Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
+2022-09-05T12:47:23Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:47:23Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-09-05T12:47:23Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-09-05T12:47:23Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-09-05T12:47:23Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: IdLookPlugin
+2022-09-05T12:47:23Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:47:23Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> Available commands: 
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> account - Modify user accounts
+	Usage: account create <username> [<UID>]
+	Usage: account delete <username>
+	Usage: account create <username> <password> [<UID>]
+	Usage: account resetpass <username> <password>
+	Permission:  None
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> announce - Send announcement to all online players, or manage server's announcement
+	Usage: a <content>
+	Usage: a refresh
+	Usage: a (tpl|revoke) <templateId>
+	Aliases: a 
+	Permission: server.announce
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> ban - Ban a player
+	Usage: ban @<UID> [<time> [<reason>]]
+	Permission: server.ban
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> clear - Deletes unequipped unlocked items from your inventory. Defaults to 4* level 1 refinement 1 or lower, but can be set higher.
+	Usage: clear @<UID> (all|wp|art|mat) [lv<max level>] [r<max refinement>] [<max rarity>*]
+	Permission: player.clearinv  (Permission player.clearinv.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> coop - Forces someone to join the world of others. If no one is targeted, it sends you into co-op mode anyway.
+	Usage: coop @<UID> [<host UID>]
+	Permission: server.coop  (Permission server.coop.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> enka - commands.enka.description
+	Usage: enka @<UID> /enka <ssm uid|ssm name>
+	Permission: player.give
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> enter_dungeon - Enter a dungeon
+	Usage: dungeon @<UID> <dungeonId>
+	Aliases: enterdungeon dungeon 
+	Permission: player.enterdungeon  (Permission player.enterdungeon.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> equip - commands.equip.description
+	Usage: e @<UID> equip
+	Aliases: use eq e 
+	Permission: player.equip  (Permission player.equip.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> give - Gives an item to you or the specified player. Can also give all weapons, avatars and/or materials, and can construct custom artifacts.
+	Usage: g @<UID> (<itemId>|<avatarId>|all|weapons|mats|avatars) [lv<level>] [r<refinement>] [x<amount>] [c<constellation>]
+	Usage: g @<UID> <artifactId> [lv<level>] [x<amount>] [<mainPropId>] [<appendPropId>[,<times>]]...
+	Aliases: g item giveitem 
+	Permission: player.give  (Permission player.give.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> giveart - commands.giveart.description
+	Usage: ga @<UID> /ga <artifactId> [<mainstatName>] [<substatName><substatvalue(in % or flat)>] [<level 1 - 21>]
+
+mainstatNames:
+    [hp,hp%,atk,atk%,def%,er,em,hb,cdmg,cr,phys%,dendro%,geo%,hydro%,anemo%,cryo%,electro%,pyro%]
+
+substatnames:
+    [<same as the ones above but exclude elemental dmg bonuses and healing bonuses>,cdr,def]
+	Aliases: gart ga 
+	Permission: player.giveart  (Permission player.giveart.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> givenew - commands.givenew.description
+	Usage: un @<UID> use and get all new items in this beta only, coz why use giveall and clutter
+	Aliases: unlocknew un new gn 
+	Permission: player.give  (Permission player.give.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> heal - Heal all characters in your current team.
+	Usage: h @<UID> 
+	Aliases: h 
+	Permission: player.heal  (Permission player.heal.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> help - Sends the help message or shows information about a specified command
+	Usage: help [<command>]
+	Permission:  None
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> kick - Kicks the specified player from the server (WIP)
+	Usage: kick @<UID> 
+	Aliases: restart 
+	Permission:  None  (Permission server.kick is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> killall - Kill all entities
+	Usage: ka @<UID> [<sceneId>]
+	Aliases: ka 
+	Permission: server.killall  (Permission server.killall.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> killCharacter - Kills the players current character
+	Usage: kill @<UID> 
+	Aliases: suicide kill 
+	Permission: player.killcharacter  (Permission player.killcharacter.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> killdroppeditems - commands.killdroppeditems.description
+	Usage: kd @<UID> killdroppeditems to remove all dropped items on floor
+	Aliases: kdi kd removeitems 
+	Permission:  None
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> language - Display or change current language
+	Usage: lang [<language code>]
+	Aliases: lang 
+	Permission:  None
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> list - List online players
+	Usage: list [<UID>]
+	Aliases: players 
+	Permission:  None
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> look - commands.look.description
+	Usage: l look <keywords>
+	Aliases: l gm 
+	Permission: player.look
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> permission - Grants or removes a permission for a user
+	Usage: permission @<UID> (add|remove) <permission>
+	Permission: permission
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> position - Get coordinates
+	Usage: pos @<UID> 
+	Aliases: pos 
+	Permission:  None
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> quest - Add or finish quests
+	Usage: quest @<UID> (add|finish) [<questId>]
+	Permission: player.quest  (Permission player.quest.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> reload - Reload server config
+	Usage: reload 
+	Permission: server.reload
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> resetConst - Resets the constellation level on your current active character, you will need to relog after using the command to see any changes
+	Usage: resetConst @<UID> [all]
+	Aliases: resetconstellation 
+	Permission: player.resetconstellation  (Permission player.resetconstellation.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> resetShopLimit - Reset target player's shop refresh time
+	Usage: resetshop @<UID> 
+	Aliases: resetshop 
+	Permission: server.resetshop  (Permission server.resetshop.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> sendMail - Sends mail to the specified user. The usage of this command changes based on its composition state
+	Usage: sendMail (<userId>|all) [<templateId>]
+	Usage: sendMail help
+	Permission: server.sendmail
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> sendMessage - Sends a message to a player as the server. If used with no target, sends to all players on the server.
+	Usage: b <message>
+	Aliases: say sendservmsg sendservermessage b broadcast 
+	Permission: server.sendmessage  (Permission server.sendmessage.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> setConst - Sets constellation level for your current active character
+	Usage: sc @<UID> <constellation level>
+	Aliases: setconstellation sc 
+	Permission: player.setconstellation  (Permission player.setconstellation.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> setFetterLevel - Sets your fetter level for your current active character
+	Usage: setfetterlvl @<UID> <level>
+	Aliases: setfetterlvl setfriendship 
+	Permission: player.setfetterlevel  (Permission player.setfetterlevel.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> setProp - Sets accountwide properties. Things like godmode can be enabled this way, as well as changing things like unlocked abyss floor and battle pass progress.
+	Values for <prop> (case-insensitive): GodMode | UnlimitedStamina | UnlimitedEnergy | TowerLevel | WorldLevel | BPLevel | SetOpenState | UnsetOpenState | UnlockMap
+	(cont.) see PlayerProperty enum for other possible values, of the form PROP_MAX_SPRING_VOLUME -> max_spring_volume
+	Usage: prop @<UID> <prop> <value>
+	Aliases: prop 
+	Permission: player.setprop  (Permission player.setprop.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> setStats - Sets fight property for your current active character
+	Values for <stat>: hp | maxhp | def | atk | em | er | crate | cdmg | cdr | heal | heali | shield | defi
+	(cont.) Elemental DMG Bonus: epyro | ecryo | ehydro | egeo | edendro | eelectro | ephys
+	(cont.) Elemental RES: respyro | rescryo | reshydro | resgeo | resdendro | reselectro | resphys
+	Usage: stat @<UID> [set] <stat> <value>
+	Usage: stat @<UID> (lock|freeze) <stat> [<value>]
+	Usage: stat @<UID> (unlock|unfreeze) <stat>
+	Aliases: stats stat 
+	Permission: player.setstats  (Permission player.setstats.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> spawn - Spawns an entity near you
+	Usage: s @<UID> spawn <entityId> [amount] [level(monster only)] [<x> <y> <z>(monster only)]
+	Aliases: drop s 
+	Permission: server.spawn  (Permission server.spawn.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> stop - Stops the server
+	Usage: stop 
+	Permission: server.stop
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> switchelement - commands.switchelement.description
+	Usage: se @<UID> anemo|geo|electro|dendro
+	Aliases: se 
+	Permission:  None
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> talent - Set talent level for your current active character
+	Usage: talent @<UID> set <talentId> <level>
+	Usage: talent @<UID> (n|e|q) <level>
+	Usage: talent @<UID> getid
+	Permission: player.settalent  (Permission player.settalent.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> team - Modify your team manually.
+	Usage: team @<UID> add <avatarId,...>
+	Usage: team @<UID> (remove|set) [index|first|last|index-index,...]
+	Permission: player.team  (Permission player.team.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> teleport - Change the player's position
+	Usage: tp @<UID> <x> <y> <z> [sceneId]
+	Aliases: tp 
+	Permission: player.teleport  (Permission player.teleport.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> teleportAll - Teleports all players in your world to your position
+	Usage: tpall @<UID> 
+	Aliases: tpall 
+	Permission: player.tpall  (Permission player.tpall.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> unban - Unban a player
+	Usage: unban @<UID> 
+	Permission: server.ban
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> unlockall - Unlocks all open states for a player.
+	Usage: unlockall @<UID> 
+	Permission: player.unlockall  (Permission player.unlockall.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> weather - Changes weather ID and climate type. Weather IDs can be found in ./Resources/ExcelBinOutput/WeatherExcelConfigData.json.
+Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
+	Usage: w @<UID> weather [<weatherId>] [<climateType>]
+	Aliases: w 
+	Permission: player.weather  (Permission player.weather.others is also required to use on other players)
+2022-09-05T12:49:28Z <INFO:emu.grasscutter.command.CommandHandler> windy - commands.windy.description
+	Usage: w @<UID> windy <element> <amount>
+[all element names + paimon + army]
+	Aliases: burn bih hell fuck w wind windshitclientnotify 
+	Permission: server.spawn  (Permission server.spawn.others is also required to use on other players)
+2022-09-05T12:49:33Z <INFO:emu.grasscutter.command.CommandHandler> Account created with UID 111111.
+2022-09-05T12:52:36Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:52:36Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:52:36Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:52:38Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-09-05T12:52:38Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-09-05T12:52:38Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-09-05T12:52:38Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.5x beta seggs mod w/ snoo x orange real
+2022-09-05T12:52:38Z <INFO:emu.grasscutter.Grasscutter> 
+
+Hall of shame:
+ -> Zero Two#1532 - for selling this
+ -> Libun#0007 - for being cringe and posting every pixel of beta
+ -> maverick#6430 - for being a clingy ass cringe fk
+
+2022-09-05T12:52:39Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
+2022-09-05T12:52:42Z <INFO:emu.grasscutter.tools.Tools> Invalid option. Will use EN (English) as fallback.
+2022-09-05T12:52:42Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:52:43Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-09-05T12:52:43Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-09-05T12:52:43Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-09-05T12:52:43Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: IdLookPlugin
+2022-09-05T12:52:43Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-09-05T12:52:43Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-09-05T12:54:32Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:54:32Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:54:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:54:42Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T12:54:43Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-09-05T12:54:43Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-09-05T12:54:59Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client 127.0.0.1 request: query_region_list
+2022-09-05T12:54:59Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 127.0.0.1 is trying to log in via token.
+2022-09-05T12:54:59Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 127.0.0.1 is trying to log in via token.
+2022-09-05T12:54:59Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 127.0.0.1 is trying to log in via token.
+2022-09-05T12:55:06Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 127.0.0.1 logged in as 10004.
+2022-09-05T12:55:06Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-09-05T12:55:06Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 127.0.0.1 succeed to exchange combo token.
+2022-09-05T12:55:06Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-09-05T12:55:09Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-09-05T12:55:21Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:58828
+2022-09-05T12:56:40Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 1 activities.
+2022-09-05T12:58:49Z <INFO:emu.grasscutter.command.CommandHandler> UnlockMap for 10004 set to 1.
+2022-09-05T12:59:32Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T13:04:36Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:58828
+2022-09-05T13:04:38Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 127.0.0.1 is trying to log in via token.
+2022-09-05T13:04:38Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 127.0.0.1 logged in via token as 10004.
+2022-09-05T13:04:38Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-09-05T13:04:38Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 127.0.0.1 succeed to exchange combo token.
+2022-09-05T13:04:38Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-09-05T13:04:38Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-09-05T13:04:53Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 127.0.0.1 logged in as 10001.
+2022-09-05T13:04:53Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-09-05T13:04:53Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 127.0.0.1 succeed to exchange combo token.
+2022-09-05T13:04:53Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-09-05T13:04:54Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-09-05T13:05:00Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:55846
+2022-09-05T13:10:42Z <INFO:emu.grasscutter.command.CommandHandler> UnlockMap for 10001 set to 1.
+2022-09-05T13:24:38Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1160
+2022-09-05T13:24:38Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20161
+2022-09-05T13:25:50Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1
+2022-09-05T13:25:50Z <INFO:emu.grasscutter.game.world.Scene> Scene 20008 loaded 4 group(s)
+2022-09-05T13:25:50Z <INFO:emu.grasscutter.game.world.Scene> Scene 20008 Block 20008 loaded.
+2022-09-05T13:26:01Z <INFO:emu.grasscutter.game.world.Scene> Scene 20008 loaded 1 group(s)
+2022-09-05T13:26:05Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_26,emu.grasscutter.scripts.data.ScriptArgs@3e32ab3e
+org.luaj.vm2.LuaError: script:861 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:26:07Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed condition_EVENT_ENTER_REGION_41,emu.grasscutter.scripts.data.ScriptArgs@1aec286e
+org.luaj.vm2.LuaError: script:135 bad argument: userdata expected, got number
+	at org.luaj.vm2.LuaValue.argerror(Unknown Source)
+	at org.luaj.vm2.LuaValue.checkuserdata(Unknown Source)
+	at org.luaj.vm2.lib.jse.JavaMethod.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:323)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:26:07Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_58,emu.grasscutter.scripts.data.ScriptArgs@145b34d3
+org.luaj.vm2.LuaError: script:1456 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:26:08Z <INFO:emu.grasscutter.game.world.Scene> Scene 20008 loaded 1 group(s)
+2022-09-05T13:26:21Z <INFO:emu.grasscutter.game.world.Scene> Scene 20008 loaded 1 group(s)
+2022-09-05T13:26:24Z <INFO:emu.grasscutter.game.world.Scene> Scene 20008 loaded 1 group(s)
+2022-09-05T13:26:24Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_48,emu.grasscutter.scripts.data.ScriptArgs@3560ee27
+org.luaj.vm2.LuaError: script:927 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:26:34Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_49,emu.grasscutter.scripts.data.ScriptArgs@7f5edc78
+org.luaj.vm2.LuaError: script:994 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:26:34Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed condition_EVENT_ENTER_REGION_42,emu.grasscutter.scripts.data.ScriptArgs@6ac0dfbc
+org.luaj.vm2.LuaError: script:165 bad argument: userdata expected, got number
+	at org.luaj.vm2.LuaValue.argerror(Unknown Source)
+	at org.luaj.vm2.LuaValue.checkuserdata(Unknown Source)
+	at org.luaj.vm2.lib.jse.JavaMethod.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:323)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:26:37Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed condition_EVENT_ENTER_REGION_42,emu.grasscutter.scripts.data.ScriptArgs@5c6f2399
+org.luaj.vm2.LuaError: script:165 bad argument: userdata expected, got number
+	at org.luaj.vm2.LuaValue.argerror(Unknown Source)
+	at org.luaj.vm2.LuaValue.checkuserdata(Unknown Source)
+	at org.luaj.vm2.lib.jse.JavaMethod.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:323)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:26:57Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_50,emu.grasscutter.scripts.data.ScriptArgs@2c8125e2
+org.luaj.vm2.LuaError: script:1061 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:26:58Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_29,emu.grasscutter.scripts.data.ScriptArgs@2c1db8e4
+org.luaj.vm2.LuaError: script:241 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:27:04Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_51,emu.grasscutter.scripts.data.ScriptArgs@6a0b36db
+org.luaj.vm2.LuaError: script:1128 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:27:11Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_59,emu.grasscutter.scripts.data.ScriptArgs@3bfedd1a
+org.luaj.vm2.LuaError: script:1308 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:27:11Z <INFO:emu.grasscutter.scripts.ScriptLib> [LUA] @@ LUA_WARNING : set_gadget_state_by_configId
+2022-09-05T13:27:12Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed condition_EVENT_ENTER_REGION_43,emu.grasscutter.scripts.data.ScriptArgs@67de6255
+org.luaj.vm2.LuaError: script:195 bad argument: userdata expected, got number
+	at org.luaj.vm2.LuaValue.argerror(Unknown Source)
+	at org.luaj.vm2.LuaValue.checkuserdata(Unknown Source)
+	at org.luaj.vm2.lib.jse.JavaMethod.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:323)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:27:18Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_53,emu.grasscutter.scripts.data.ScriptArgs@6dbc2fd9
+org.luaj.vm2.LuaError: script:1241 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:27:21Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_55,emu.grasscutter.scripts.data.ScriptArgs@3fb00245
+org.luaj.vm2.LuaError: script:1308 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:27:29Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 132
+2022-09-05T13:27:30Z <INFO:emu.grasscutter.game.world.Scene> Scene 20125 loaded 1 group(s)
+2022-09-05T13:27:30Z <INFO:emu.grasscutter.game.world.Scene> Scene 20125 Block 20125 loaded.
+2022-09-05T13:28:14Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 131
+2022-09-05T13:28:45Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 130
+2022-09-05T13:28:46Z <INFO:emu.grasscutter.game.world.Scene> Scene 20115 loaded 1 group(s)
+2022-09-05T13:28:46Z <INFO:emu.grasscutter.game.world.Scene> Scene 20115 Block 20115 loaded.
+2022-09-05T13:29:17Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 129
+2022-09-05T13:29:38Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1000
+2022-09-05T13:29:39Z <INFO:emu.grasscutter.game.world.Scene> Scene 20000 loaded 15 group(s)
+2022-09-05T13:29:39Z <INFO:emu.grasscutter.game.world.Scene> Scene 20000 Block 20000 loaded.
+2022-09-05T13:29:55Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1001
+2022-09-05T13:29:56Z <INFO:emu.grasscutter.game.world.Scene> Scene 20009 loaded 7 group(s)
+2022-09-05T13:29:56Z <INFO:emu.grasscutter.game.world.Scene> Scene 20009 Block 20009 loaded.
+2022-09-05T13:30:07Z <INFO:emu.grasscutter.game.world.Scene> Scene 20009 loaded 1 group(s)
+2022-09-05T13:30:27Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1002
+2022-09-05T13:30:28Z <INFO:emu.grasscutter.game.world.Scene> Scene 20010 loaded 2 group(s)
+2022-09-05T13:30:28Z <INFO:emu.grasscutter.game.world.Scene> Scene 20010 Block 20010 loaded.
+2022-09-05T13:30:43Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1003
+2022-09-05T13:30:44Z <INFO:emu.grasscutter.game.world.Scene> Scene 20011 loaded 4 group(s)
+2022-09-05T13:30:44Z <INFO:emu.grasscutter.game.world.Scene> Scene 20011 Block 20011 loaded.
+2022-09-05T13:31:19Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1003
+2022-09-05T13:31:30Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1004
+2022-09-05T13:31:31Z <INFO:emu.grasscutter.game.world.Scene> Scene 20012 loaded 2 group(s)
+2022-09-05T13:31:31Z <INFO:emu.grasscutter.game.world.Scene> Scene 20012 Block 20012 loaded.
+2022-09-05T13:31:46Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1005
+2022-09-05T13:31:46Z <INFO:emu.grasscutter.game.world.Scene> Scene 20013 loaded 3 group(s)
+2022-09-05T13:31:46Z <INFO:emu.grasscutter.game.world.Scene> Scene 20013 Block 20013 loaded.
+2022-09-05T13:31:59Z <INFO:emu.grasscutter.game.world.Scene> Scene 20013 loaded 1 group(s)
+2022-09-05T13:32:08Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1006
+2022-09-05T13:32:08Z <INFO:emu.grasscutter.game.world.Scene> Scene 20014 loaded 3 group(s)
+2022-09-05T13:32:08Z <INFO:emu.grasscutter.game.world.Scene> Scene 20014 Block 20014 loaded.
+2022-09-05T13:32:14Z <INFO:emu.grasscutter.game.world.Scene> Scene 20014 loaded 4 group(s)
+2022-09-05T13:32:19Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1010
+2022-09-05T13:32:20Z <INFO:emu.grasscutter.game.world.Scene> Scene 20005 loaded 2 group(s)
+2022-09-05T13:32:20Z <INFO:emu.grasscutter.game.world.Scene> Scene 20005 Block 20005 loaded.
+2022-09-05T13:32:37Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1132
+2022-09-05T13:32:38Z <INFO:emu.grasscutter.game.world.Scene> Scene 20128 loaded 3 group(s)
+2022-09-05T13:32:38Z <INFO:emu.grasscutter.game.world.Scene> Scene 20128 Block 20128 loaded.
+2022-09-05T13:33:26Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1133
+2022-09-05T13:33:27Z <INFO:emu.grasscutter.game.world.Scene> Scene 20129 loaded 7 group(s)
+2022-09-05T13:33:27Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_GADGET_CREATE_17013,emu.grasscutter.scripts.data.ScriptArgs@5c1b014e
+org.luaj.vm2.LuaError: script:859 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.invoke(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:33:27Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_GADGET_CREATE_17014,emu.grasscutter.scripts.data.ScriptArgs@697800d4
+org.luaj.vm2.LuaError: script:896 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.invoke(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:33:27Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_GADGET_CREATE_17015,emu.grasscutter.scripts.data.ScriptArgs@8cfaa8d
+org.luaj.vm2.LuaError: script:941 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.invoke(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:33:27Z <INFO:emu.grasscutter.game.world.Scene> Scene 20129 Block 20129 loaded.
+2022-09-05T13:33:30Z <ERROR:emu.grasscutter.scripts.SceneScriptManager> [LUA] call trigger failed action_EVENT_ENTER_REGION_8001,emu.grasscutter.scripts.data.ScriptArgs@5b9a51aa
+org.luaj.vm2.LuaError: script:92 attempt to call nil
+	at org.luaj.vm2.LuaValue.checkmetatag(Unknown Source)
+	at org.luaj.vm2.LuaValue.callmt(Unknown Source)
+	at org.luaj.vm2.LuaValue.call(Unknown Source)
+	at org.luaj.vm2.LuaClosure.execute(Unknown Source)
+	at org.luaj.vm2.LuaClosure.call(Unknown Source)
+	at emu.grasscutter.scripts.SceneScriptManager.safetyCall(SceneScriptManager.java:375)
+	at emu.grasscutter.scripts.SceneScriptManager.callScriptFunc(SceneScriptManager.java:368)
+	at emu.grasscutter.scripts.SceneScriptManager.realCallEvent(SceneScriptManager.java:327)
+	at emu.grasscutter.scripts.SceneScriptManager.lambda$callEvent$10(SceneScriptManager.java:308)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-09-05T13:33:39Z <INFO:emu.grasscutter.scripts.ScriptLib> [LUA] @@ LUA_WARNING : remove_gadget_by_configid
+2022-09-05T13:34:06Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 134
+2022-09-05T13:34:07Z <INFO:emu.grasscutter.game.world.Scene> Scene 20125 loaded 1 group(s)
+2022-09-05T13:34:07Z <INFO:emu.grasscutter.game.world.Scene> Scene 20125 Block 20125 loaded.
+2022-09-05T13:34:17Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1134
+2022-09-05T13:34:17Z <INFO:emu.grasscutter.game.world.Scene> Scene 20131 loaded 13 group(s)
+2022-09-05T13:34:17Z <INFO:emu.grasscutter.game.world.Scene> Scene 20131 Block 20131 loaded.
+2022-09-05T13:34:26Z <INFO:emu.grasscutter.game.world.Scene> Scene 20131 loaded 1 group(s)
+2022-09-05T13:34:29Z <INFO:emu.grasscutter.game.world.Scene> Scene 20131 loaded 1 group(s)
+2022-09-05T13:34:30Z <INFO:emu.grasscutter.game.world.Scene> Scene 20131 loaded 2 group(s)
+2022-09-05T13:34:38Z <INFO:emu.grasscutter.game.world.Scene> Scene 20131 loaded 1 group(s)
+2022-09-05T13:34:50Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1135
+2022-09-05T13:34:51Z <INFO:emu.grasscutter.game.world.Scene> Scene 50067 loaded 1 group(s)
+2022-09-05T13:34:51Z <INFO:emu.grasscutter.game.world.Scene> Scene 50067 Block 50067 loaded.
+2022-09-05T13:35:53Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1136
+2022-09-05T13:35:53Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 1071
+2022-09-05T13:36:06Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1121
+2022-09-05T13:36:06Z <INFO:emu.grasscutter.game.world.Scene> Scene 20116 loaded 1 group(s)
+2022-09-05T13:36:06Z <INFO:emu.grasscutter.game.world.Scene> Scene 20116 Block 20116 loaded.
+2022-09-05T13:36:49Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1120
+2022-09-05T13:36:50Z <INFO:emu.grasscutter.game.world.Scene> Scene 1062 loaded 5 group(s)
+2022-09-05T13:36:50Z <INFO:emu.grasscutter.game.world.Scene> Scene 1062 Block 1062 loaded.
+2022-09-05T13:37:18Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1151
+2022-09-05T13:37:18Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20145
+2022-09-05T13:37:29Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1150
+2022-09-05T13:37:29Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20149
+2022-09-05T13:37:38Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1149
+2022-09-05T13:37:38Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20132
+2022-09-05T13:37:59Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1111
+2022-09-05T13:38:00Z <INFO:emu.grasscutter.game.world.Scene> Scene 20035 loaded 3 group(s)
+2022-09-05T13:38:00Z <INFO:emu.grasscutter.game.world.Scene> Scene 20035 Block 20035 loaded.
+2022-09-05T13:38:16Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1148
+2022-09-05T13:38:16Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20144
+2022-09-05T13:38:32Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1146
+2022-09-05T13:38:32Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20142
+2022-09-05T13:38:43Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1147
+2022-09-05T13:38:43Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20143
+2022-09-05T13:39:21Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1137
+2022-09-05T13:39:21Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20133
+2022-09-05T13:39:39Z <INFO:emu.grasscutter.game.dungeons.DungeonSystem> KeqingBTW(1337) is trying to enter dungeon 1121
+2022-09-05T13:39:40Z <INFO:emu.grasscutter.game.world.Scene> Scene 20116 loaded 1 group(s)
+2022-09-05T13:39:40Z <INFO:emu.grasscutter.game.world.Scene> Scene 20116 Block 20116 loaded.
+2022-09-05T13:40:26Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:55846
+2022-09-05T13:40:26Z <WARN:emu.grasscutter.scripts.data.SceneMeta> No script found for scene 20133
+2022-09-05T17:52:17Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-GB.json, falling back to: en-US.json
+2022-09-05T17:52:17Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
